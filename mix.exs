@@ -76,7 +76,7 @@ defmodule ExRoboCop.MixProject do
       source_ref: "v#{@version}",
       main: "README",
       canonical: "http://hexdocs.pm/ex_robo_cop",
-      source_url: "https://github.com/CorneliaKelinske/ex_robo_cop",
+      source_url: "https://github.com/niccolox/ex_robo_cop",
       filter_prefix: "ExRoboCop",
       extras: [
         "README.md": [filename: "README"],
