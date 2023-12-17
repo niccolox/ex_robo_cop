@@ -57,9 +57,9 @@ defmodule ExRoboCop.MixProject do
 
   defp package do
     [
-      maintainers: ["Cornelia Kelinske"],
+      maintainers: ["Nicholas Roberts"],
       licenses: ["MIT"],
-      links: %{github: "https://github.com/corneliakelinske/ex_robo_cop"},
+      links: %{github: "https://github.com/niccolox/ex_robo_cop"},
       files: [
         "lib/ex_robo_cop.ex",
         "lib/ex_robo_cop",
