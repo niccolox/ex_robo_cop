@@ -11,5 +11,5 @@ crate-type = ["cdylib"]
 
 [dependencies]
 rustler = "0.30.0"
-captcha = "0.0.8"
+captcha = "*"
 base64 = "0.13.0"
